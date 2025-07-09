@@ -1,2 +1,2 @@
 # st2195_assignment_9
-## Machine Learning extension on the Titanic dataset
+## Machine learning extension on the Titanic dataset
